@@ -1,2 +1,3 @@
 # tictactoepy
-cool tic tac toe python game i made long ago
+
+> cool tic tac toe python game i made long ago
